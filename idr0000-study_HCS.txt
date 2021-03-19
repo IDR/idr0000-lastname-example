@@ -61,7 +61,7 @@ Screen Technology Type Term Accession	# leave blank
 Screen Type	# choose from: primary screen, secondary screen, validation screen, or enter your own value																																
 Screen Type Term Source REF																																	
 Screen Type Term Accession																																	
-Screen Organism	# if different from Study Organism																																
+Screen Organism	# fill in if different from Study Organism, if more than one organism was studied, enter them in separate columns																																
 Screen Organism Term Source REF	NCBITaxon																																
 Screen Organism Term Accession	# leave blank																																
 Screen Comments	# if there is anything you want to say about the screen not covered elsewhere enter it here e.g. images for plate 3 are missing due to corruption																																
